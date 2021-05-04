@@ -1,0 +1,22 @@
+[
+      {
+            "Criteria": "More Than $200",
+            "Amount": 1
+      },
+      {
+            "Criteria": "More Than $150 Less Than $200",
+            "Amount": 2
+      },
+      {
+            "Criteria": "More Than $100 Less Than $150",
+            "Amount": 5
+      },
+      {
+            "Criteria": "More Than $50 Less Than $100",
+            "Amount": 21
+      },
+      {
+            "Criteria": "Less Than $50",
+            "Amount": 71
+      }
+]
